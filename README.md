@@ -25,8 +25,6 @@ license:
 
 ### Possible Schemes to Constrain some Parameter Intervals
 
-### Summary
-
 ### Reference
 
 ```

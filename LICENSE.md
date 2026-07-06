@@ -13,4 +13,3 @@ Legal code:
 https://creativecommons.org/licenses/by/4.0/legalcode
 
 Third-party materials remain under their original rights and licenses.
-
