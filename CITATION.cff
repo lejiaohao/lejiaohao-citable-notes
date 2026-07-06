@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use or cite these notes, please cite the Lejiaohao Citable Notes repository."
+title: "Lejiaohao Citable Notes"
+authors:
+  - family-names: "MegastructureCourier"
+repository-code: "https://github.com/lejiaohao/lejiaohao-citable-notes"
+license: "CC-BY-4.0"
+
